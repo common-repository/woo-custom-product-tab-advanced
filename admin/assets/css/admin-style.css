@@ -1,0 +1,13 @@
+.wtab-hide { display: none; }
+.wtab-show { display: block; }
+
+#wp-wtab_description-wrap { padding: 10px; }
+.wtab-add-remove { overflow: hidden; padding: 10px; }
+.wtab-button { float: right; margin-right: 10px !important; }
+    .wtab-button:first-child { margin-right: 0px; }
+.wtab-no-tab { text-align: center; margin: 10px 0; }
+    .wtab-no-tab .wtab-button { float: none; }
+    
+.ui-dialog-titlebar-close { outline: none; }
+.wtab-row.toclone { border-top: 1px solid #DADADA; }
+    .wtab-row.toclone:first-child { border: none; }
